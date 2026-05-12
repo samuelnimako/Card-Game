@@ -19,7 +19,15 @@ A fun and interactive memory card game built with React.js, where players flip c
 
 📸 Screenshots
 
-(Add screenshots of your game here)
+<p align="center">
+  <img src="images/screen1.png" width="45%" />
+  <img src="images/screen2.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="images/screen3.png" width="45%" />
+  <img src="images/screen4.png" width="45%" />
+</p>
 
 
 
