@@ -21,7 +21,7 @@ A fun and interactive memory card game built with React.js, where players flip c
 
 <p align="center">
   <img src="images/Screenshot%202026-05-12%20004924.png" width="45%" />
-  <img src="images/screen2.png" width="45%" />
+  <img src="images/Screenshot 2026-05-12 004933.png" width="45%" />
 </p>
 
 <p align="center">
